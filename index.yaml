@@ -3,12 +3,12 @@ entries:
   hello-cluster:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-12-24T12:14:36.368852+09:00"
+    created: "2021-12-24T12:24:43.148134+09:00"
     description: Hello Cluster~
-    digest: 6721a7ed77104763495e377880601c8795a90d4acae210e9a730b319e4041f85
+    digest: 536244b83ee804b7989e6aa5901bb9533f61ed0750ca9f3a91fc9c48180301b0
     name: hello-cluster
     type: application
     urls:
-    - hello-cluster-0.2.2.tgz
-    version: 0.2.2
-generated: "2021-12-24T12:14:36.368383+09:00"
+    - hello-cluster-0.2.3.tgz
+    version: 0.2.3
+generated: "2021-12-24T12:24:43.147528+09:00"
